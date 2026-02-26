@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I’m Adam 🇲🇦, a computer science student based in Montreal. I enjoy building clean, modern interfaces and learning how to create simple, well-designed user experiences.
+I’m Adam MA, a computer science student based in Montreal. I enjoy building clean, modern interfaces and learning how to create simple, well-designed user experiences.
 
 Currently focused on:
 
