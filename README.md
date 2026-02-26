@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 
+I’m Adam 🇲🇦, a computer science student based in Montreal. I enjoy building clean, modern interfaces and learning how to create simple, well-designed user experiences.
+
+Currently focused on:
+
+React, TypeScript, JavaScript
+Building modern UI components
+Improving my frontend and backend development skills
+
 
 <!--
 **adamsalmane/adamsalmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
